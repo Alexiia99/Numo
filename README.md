@@ -18,27 +18,27 @@ Numo stores everything locally using SQLite. Your data stays on your phone. Peri
 
 ## 🌼 Features
 
-### 🏠 Home
+### 🌸 Home
 Monthly spending at a glance — total spent vs remaining budget. Recent transactions listed below. One tap to add a new expense.
 
-### 📋 Expenses
+### 🌸 Expenses
 Full transaction history grouped by date. Search by name, filter by category. Categories include: Alimentación, Hogar, Restaurante, Transporte, Salud, Ocio, Ropa, Otros.
 
-### 🔁 Recurring expenses
+### 🌸 Recurring expenses
 Set up subscriptions and recurring payments once. Configure:
 - **Periodicity** — monthly, quarterly, or yearly
 - **Billing day** — which day of the month it hits
 - **Advance notification** — 1 day, 3 days, or same day
 
-### 🎯 Budget limits
+### 🌸 Budget limits
 Set spending caps per category with a visual progress bar. Edit or remove limits at any time.
 
-### 📊 Charts & Stats
+### 🌸 Charts & Stats
 - Pie chart of spending by category with percentages
 - Monthly evolution bar chart (last 6 months)
 - Month-over-month comparison with % change
 
-### ⚙️ Settings
+### 🌸 Settings
 - Custom currency
 - Configurable month start day
 - Global monthly budget
@@ -50,7 +50,7 @@ Set spending caps per category with a visual progress bar. Edit or remove limits
 
 ---
 
-## 🛠️ Tech Stack
+## 🌸 Tech Stack
 
 ```
 Language        →  Kotlin
@@ -64,7 +64,7 @@ Build           →  Gradle (Kotlin DSL)
 
 ---
 
-## 🌻 Why offline-first?
+## 🌸 Why offline-first?
 
 Most expense apps sync to the cloud. That means an account, a privacy policy, and someone else's server holding your financial data.
 
@@ -74,7 +74,7 @@ The CSV and PDF export exist precisely so you can take your data wherever you wa
 
 ---
 
-## 🚀 Getting Started
+## 🌸 Getting Started
 
 ```bash
 # Clone the repo
@@ -120,4 +120,4 @@ Also: export to PDF from an Android app is way more annoying than it sounds.
 
 ---
 
-*Built with 🌿 — [github.com/Alexiia99](https://github.com/Alexiia99)*
+*Built with 💚 — [github.com/Alexiia99](https://github.com/Alexiia99)*
