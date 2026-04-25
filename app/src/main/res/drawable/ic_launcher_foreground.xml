@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Fondo verde -->
+    <path
+        android:fillColor="#2D5A3D"
+        android:pathData="M14,0 L94,0 Q108,0 108,14 L108,94 Q108,108 94,108 L14,108 Q0,108 0,94 L0,14 Q0,0 14,0 Z"/>
+
+    <!-- N - palo izquierdo -->
+    <path
+        android:strokeColor="#F5F0E8"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M32,78 L32,30"/>
+
+    <!-- N - diagonal -->
+    <path
+        android:strokeColor="#F5F0E8"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M32,30 L76,78"/>
+
+    <!-- N - palo derecho -->
+    <path
+        android:strokeColor="#F5F0E8"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M76,78 L76,30"/>
+
+    <!-- Tallo de la planta -->
+    <path
+        android:strokeColor="#8FBF9F"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M54,48 L54,22"/>
+
+    <!-- Hoja izquierda grande -->
+    <path
+        android:fillColor="#5A9E6A"
+        android:pathData="M54,36 Q38,28 40,14 Q50,22 54,36 Z"/>
+
+    <!-- Vena hoja izquierda -->
+    <path
+        android:strokeColor="#3D7A52"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M54,36 Q46,26 41,16"/>
+
+    <!-- Hoja derecha grande -->
+    <path
+        android:fillColor="#8FBF9F"
+        android:pathData="M54,36 Q70,28 68,14 Q58,22 54,36 Z"/>
+
+    <!-- Vena hoja derecha -->
+    <path
+        android:strokeColor="#5A9E6A"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M54,36 Q62,26 67,16"/>
+
+    <!-- Hoja pequeña izquierda -->
+    <path
+        android:fillColor="#3D7A52"
+        android:pathData="M54,26 Q44,22 46,12 Q52,18 54,26 Z"/>
+
+    <!-- Tallo superior -->
+    <path
+        android:strokeColor="#8FBF9F"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M54,22 L54,8"/>
+
+    <!-- Brote dorado -->
+    <path
+        android:fillColor="#E8A838"
+        android:pathData="M54,10 Q48,4 54,0 Q60,4 54,10 Z"/>
+
+</vector>
