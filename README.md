@@ -12,7 +12,7 @@ Numo stores everything locally using SQLite. Your data stays on your phone. Peri
 
 | Home | Expenses | Charts | Budget Limits | Recurring | Settings |
 |------|----------|--------|---------------|-----------|----------|
-| ![Home](screenshots/home.png) | ![Expenses](screenshots/expenses.png) | ![Charts](screenshots/charts.png) | ![Limits](screenshots/limits.png) | ![Recurring](screenshots/recurring.png) | ![Settings](screenshots/settings.png) |
+| ![Home](screenshots/home.jpeg) | ![Expenses](screenshots/expenses.jpeg) | ![Charts](screenshots/charts.jpeg) | ![Limits](screenshots/limits.jpeg) | ![Recurring](screenshots/recurring.jpeg) | ![Settings](screenshots/settings.jpeg) |
 
 ---
 
